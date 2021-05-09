@@ -1,0 +1,10 @@
+{
+	"name": "semver",
+	"version": "0.0.0",
+	"build": {
+		"srcFilter": [
+			"+<semver.h>",
+			"+<semver.c>"
+		]
+	}
+}
